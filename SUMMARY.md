@@ -180,7 +180,7 @@
 	* [应用支撑组件](articles/iuap-develop/10-/README.md)
 	  * [登录及权限](articles/iuap-develop/10-/iuap-authrbac-core/3.1.0-RELEASE/manual.md)
 	  * [编码规则](articles/iuap-develop/10-/iuap-billcode/3.1.0-RELEASE/manual.md)
-	  * [业务日志](articles/iuap-develop/10-/iuap-busilog/3.1.0-RELEASE/manual.md)
+	  * [业务日志](articles/iuap-develop/10-/iuap-busilog/3.5.5-RELEASE/iuap专属云应用平台-业务日志组件V3.5.5红皮书.md)
 	  * [后台调度任务SDK](articles/iuap-develop/10-/iuap-dispatch-sdk/3.1.0-RELEASE/manual.md)
 	  * [后台调度任务](articles/iuap-develop/10-/iuap-dispatch-service/3.1.0-RELEASE/manual.md)
 	  * [规则引擎](articles/iuap-develop/10-/iuap-droolsrule/5.5.0.Final/manual.md)
