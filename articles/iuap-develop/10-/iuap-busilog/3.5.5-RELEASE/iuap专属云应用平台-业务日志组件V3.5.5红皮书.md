@@ -644,7 +644,7 @@ com.yonyou.uap.busilog.api.LogCenter#sendLog(busiName, busiCode, logTypeCode, lo
 
 **参数说明：**
 
-| **参数** | **参数类型 **|** 是否必须** | **说明** |
+| **参数** | **参数类型**|**是否必须** | **说明** |
 | --- | --- | --- | --- |
 | busiName | String | 是 | 业务名称 |
 | busiCode | String | 是 | 业务代码 |
@@ -669,7 +669,7 @@ com.yonyou.uap.busilog.api.LogCenter#sendLog(busiName, busiCode, logTypeCode, lo
 
 **参数说明：**
 
-| **参数** | **参数类型 **|** 是否必须** | **说明** |
+| **参数** | **参数类型**|**是否必须** | **说明** |
 | --- | --- | --- | --- |
 | busiName | String | 是 | 业务名称 |
 | busiCode | String | 是 | 业务代码 |
@@ -695,7 +695,7 @@ com.yonyou.uap.busilog.api.LogCenter#sendLog(busiName, busiCode, logTypeCode, lo
 
 **参数说明：**
 
-| **参数** | **参数类型 **|** 是否必须** | **说明** |
+| **参数** | **参数类型**|**是否必须** | **说明** |
 | --- | --- | --- | --- |
 | busiName | String | 是 | 业务名称 |
 | busiCode | String | 是 | 业务代码 |
@@ -720,7 +720,7 @@ com.yonyou.uap.busilog.api.LogCenter#sendLog(busiName, busiCode, logTypeCode, lo
 
 注解说明：
 
-| **参数** | **参数类型 **|** 是否必须** | **说明** |
+| **参数** | **参数类型**|**是否必须** | **说明** |
 | --- | --- | --- | --- |
 | busiName | String | 是 | 业务名称 |
 | busiCode | String | 是 | 业务代码 |
